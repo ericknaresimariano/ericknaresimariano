@@ -14,4 +14,4 @@
   <a href="https://www.linkedin.com/in/erick-naresi-5992a83b3?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 
-<
+<img src="https://tenor.com/search/gojo-gifs" />
