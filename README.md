@@ -1,7 +1,9 @@
 ## Olá, eu sou Erick Naresi!
 
 🔭 Estou trabalhando como Auxiliar Administrativo
+  
 🌱 Estou estudando Engenharia de Software
+
 😄 Pronomes: Ele/Dele
 
 <div> 
