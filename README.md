@@ -1,4 +1,5 @@
 ## Olá, eu sou Erick Naresi!
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmFscWJyNm01bGlsZ3gyejIwY2RkbndlODZ6cWxzeHF4c2Ntd3BhNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aDS8SjVtS3Mwo/giphy.gif" />
 
 🔭 Estou trabalhando como Auxiliar Administrativo
   
@@ -32,8 +33,6 @@
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ericknaresimariano&theme=tokyonight" />
-
-  <img src="https://media.tenor.com/h7CZbik22-UAAAAC/satoru-satoru-gojo.gif" />
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
