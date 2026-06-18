@@ -23,7 +23,24 @@
 </div>
 
 
-<img src="https://media.tenor.com/h7CZbik22-UAAAAC/satoru-satoru-gojo.gif" />
+<div>
+
+  
+<div align="center">
+
+<img height="90em" src="https://github-readme-stats.vercel.app/api?username=ericknaresimariano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericknaresimariano&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=murilostegani&theme=tokyonight" />
+
+</div>
+
+  <img src="https://media.tenor.com/h7CZbik22-UAAAAC/satoru-satoru-gojo.gif" />
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
